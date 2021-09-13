@@ -1,0 +1,13 @@
+<html lang="fr">
+<head>
+<title> Répertoire : Chercher un numero</title>
+<link rel="stylesheet" href="..\static\style.css">
+</head>
+<body>
+<h1> Chercher un numéro </h1>
+ <form action="action="http://localhost:5000/resultat" method="post" class"form-example">
+ <label for="name">Entrer un nom :</label>
+<input type="text" name="name" id ="name" />
+</form>
+<a href="google.com"><button class="button">mégasus</button></a>
+</body>

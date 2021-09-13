@@ -1,0 +1,15 @@
+<html lang="fr">
+<!doctype html>
+<link rel="stylesheet" href="..\static\style.css">
+<head>
+<meta charset="utf-8">
+<title>Le formulaire</title>
+</head>
+<body>
+<form action="http://localhost:5000/save", method="post">
+<label>Nom</label> : <input type="text", name="nom" />
+<label>Numéro</label> : <input type="text", name="numero" />
+<input type="submit" value="Envoyer" />
+</form>
+</body>
+</html>
